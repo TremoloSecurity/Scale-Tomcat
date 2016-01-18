@@ -9,7 +9,7 @@
 	<artifactId>scale-passwordreset</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.6</version>
-	<name>scale</name>
+	<name>scale-passwordreset</name>
 	<url>https://www.tremolosecurity.com/</url>
 
 	<repositories>

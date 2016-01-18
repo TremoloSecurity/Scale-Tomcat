@@ -9,7 +9,7 @@
 	<artifactId>scale-register</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.6</version>
-	<name>scale</name>
+	<name>scale-register</name>
 	<url>https://www.tremolosecurity.com/</url>
 
 	<repositories>
